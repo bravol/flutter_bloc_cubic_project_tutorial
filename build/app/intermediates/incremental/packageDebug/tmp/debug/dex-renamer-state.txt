@@ -1,0 +1,4 @@
+#Sat Feb 03 13:40:27 EAT 2024
+base.0=/Users/brianlumala/Documents/GitHub/flutter_bloc_cubic_project_tutorial/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
